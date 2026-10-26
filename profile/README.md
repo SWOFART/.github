@@ -14,6 +14,11 @@ We create and maintain open-source projects that help people learn, build, and s
 - Educational resources
 - Projects built collaboratively by our members
 
+## Our latest projects
+
+- [open-circuit](https://github.com/SWOFART/open-circuit) — A TypeScript project exploring open and creative software development.
+- [OneShot](https://github.com/SWOFART/OneShot) — Protects approved business obligations from duplicate committed settlements across retries, crashes, lost responses, queue redelivery, parallel workers, and multiple agent instances.
+
 ## Get involved
 
 Everyone is welcome to participate, whether you are an experienced developer or just getting started. You can contribute by:
